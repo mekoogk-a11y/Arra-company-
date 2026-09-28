@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arra-infrastructure.com/sitemap.xml

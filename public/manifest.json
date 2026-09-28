@@ -1,0 +1,31 @@
+{
+  "name": "شركة اررا للبنيات التحتية المحدودة",
+  "short_name": "اررا ARRA",
+  "description": "شركة اررا للبنيات التحتية المحدودة - نبني البنية التحتية لمستقبل السودان",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08321F",
+  "theme_color": "#08321F",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"]
+}

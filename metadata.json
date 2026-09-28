@@ -1,0 +1,6 @@
+{
+  "name": "شركة اررا للبنيات التحتية المحدودة | ARRA Infrastructure",
+  "description": "الموقع المؤسسي الرسمي لشركة اررا للبنيات التحتية المحدودة (ARRA) - رائدة مشاريع الطرق والجسور والإنشاءات والهندسة المدنية وشبكات المياه في السودان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
